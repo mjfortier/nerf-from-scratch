@@ -1,0 +1,9 @@
+#+title: Notes on NeRFs
+
+* Research to do
+** Papers
+** General articles / webpages
+- List of papers
+  - [2020 review](https://dellaert.github.io/NeRF/)
+  - [2021 review](https://dellaert.github.io/NeRF21/)
+  - [2022 review](https://dellaert.github.io/NeRF22/)
